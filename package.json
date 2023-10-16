@@ -1,0 +1,14 @@
+{
+  "name": "spaceflight-news-api-automated-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run"
+  },
+  "author": "Henrique Koaski",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.5.4"
+  }
+}
