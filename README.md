@@ -22,7 +22,7 @@ In this project, we conduct automated tests using JavaScript and Gherkin with No
 - NPM
 - Cucumber
 - CodeceptJS
-- Postman
+- Joi
 
 <div>
  <a href="https://nodejs.org/en/">
@@ -40,8 +40,8 @@ In this project, we conduct automated tests using JavaScript and Gherkin with No
  <a href="https://cucumber.io/" target="_blank">
   <img align="center" alt="Cucumber" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" />
  </a>
-  <a href="https://www.postman.com/" target="_blank">
-  <img align="center" alt="Postman" height="50" width="60" src="https://i.imgur.com/E2i8BpH.png" />
+  <a href="https://joi.dev/" target="_blank">
+  <img align="center" alt="Joi" height="50" width="60" src="https://i.imgur.com/InejDjb.png" />
  </a>
 
 </div>
@@ -59,6 +59,7 @@ To run the tests on your computer, follow these steps:
 
 Inside your code editor, open the terminal and run the following commands:
 
+
 2. Clone this GitHub repository:
 
  ```
@@ -66,7 +67,14 @@ Inside your code editor, open the terminal and run the following commands:
  ```
 <br/>
 
-3. Install the dependencies:
+3. Direct to the project directory:
+
+ ```
+cd spaceflight-news-api-automated-tests
+ ```
+<br/>
+
+4. Install the dependencies:
 
  ```
 npm install
